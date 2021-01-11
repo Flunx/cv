@@ -15,31 +15,33 @@
 ## Employment
 
 `2008-2020` ZXY Sport Tracking, ChyronHego
- * `2014` Accuired by [ChyronHego](https://chyronhego.com/products/sports-tracking/)
-
+ * `2014` Accuired by [ChyronHego](https://chyronhego.com/products/sports-tracking/zxy-go-wearable-tracking/)
 
 ---
 
 ## Skills
 
 ### Primary
-*  C# .NET, WPF
+* .NET 
+    * C#, WPF, Forms, XAML
+* Databases
+    * SQL, Sybase
 * Unity3D
-* SQL
 
 ### Secondary
-* C++
-* HTML
-* PHP
-* Javascript
+* C/C++
+* Web
+    * HTML, PHP, Javascript
   
 ### Misc
 
 * Linux
 * Git
-* Atlassian (JIRA, Bitbucket, Confluence)
+* Atlassian 
+    * JIRA, Bitbucket, Confluence
 * Google G Suite
-* RTK
+* GNSS
+    * RTKLib
 
 ---
 
