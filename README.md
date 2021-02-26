@@ -30,6 +30,7 @@
 
 ### Secondary
 * C/C++
+   * Qt, QtCreator
 * Web
     * HTML, PHP, Javascript
   
