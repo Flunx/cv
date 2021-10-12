@@ -14,8 +14,8 @@
 
 ## Employment
 
-`2008-2020` ZXY Sport Tracking, ChyronHego
- * `2014` Accuired by [ChyronHego](https://chyronhego.com/products/sports-tracking/zxy-go-wearable-tracking/)
+`2008-2021` ZXY Sport Tracking, [TRACAB](https://tracab.com/)
+ * `2014` Accuired by [ChyronHego](https://chyronhego.com/)
 
 ---
 
@@ -26,7 +26,7 @@
     * C#, WPF, Forms, XAML
 * Databases
     * SQL, Sybase
-* Unity3D
+* Unity
 
 ### Secondary
 * C/C++
@@ -35,7 +35,6 @@
     * HTML, PHP, Javascript
   
 ### Misc
-
 * Linux
 * Git
 * Atlassian 
