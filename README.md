@@ -14,8 +14,9 @@
 
 ## Employment
 
-`2008-2021` ZXY Sport Tracking, [TRACAB](https://tracab.com/)
+`2008-2024` ZXY Sport Tracking AS
  * `2014` Accuired by [ChyronHego](https://chyronhego.com/)
+ * `2021` Head of Wearable Technology [TRACAB](https://tracab.com/)
 
 ---
 
